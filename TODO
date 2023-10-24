@@ -1,0 +1,9 @@
+ENVOYER DES EMAILS
+-------------------
+Recevoir un tableau de l'UI pondu soit par l'app soit par php
+transformer le main en fn qui prend le tableau en param et le check avant envoi
+
+RAMASSER DES EMAIlS
+--------------------
+si la ligne de delete du mail est commentée le pg ne pourra pas créer dans received_files
+ le fichier de sortie car il doit être unique

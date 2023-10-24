@@ -1,0 +1,9 @@
+Créer votre venv et l'activer
+pip install -r requirements.txt
+créer votre .env comprenant le user des boîtes et le pass de l'app
+pour le ramassage POP
+ ->   EMAIL_GET_USER
+ ->   GET_PASS
+ pour la boîte d'envoi SMTP
+ ->   EMAIL_SEND_USER
+ ->   SEND_PASS
